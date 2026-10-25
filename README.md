@@ -101,10 +101,18 @@ This project demonstrates foundational skills in Python-based exploratory data a
 
 Trip distance is a potentially useful predictor of taxi fares, while total amount could serve as the target variable for a fare prediction model, depending on the modeling objective.
 
-## Project Notebook
+## Project Files
 
-The complete Jupyter Notebook containing the analysis, Python code, and results is available in this repository.
+### 1. Jupyter Notebook
+[View Course 1 Python Notebook](https://github.com/Priyanka2613/NYC-Taxi-Data-Analysis/blob/main/Activity_Course%201%20Automatidata%20project%20lab.ipynb)
 
+Contains Python code, data inspection, exploratory analysis, and findings from the Course 1 Automatidata project.
+
+### 2. Executive Summary
+[View Executive Summary (PDF)](NYC_Taxi_Data_Analysis_Executive_Summary.pdf)
+
+Summarizes the project objectives, key findings, and recommendations.
+ Copy text
 ## Acknowledgment
 
 Completed as part of the **Google Advanced Data Analytics Professional Certificate** on Coursera, using the Automatidata educational project scenario.
